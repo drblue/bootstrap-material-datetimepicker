@@ -1,0 +1,15 @@
+{
+    "name": "dr_blue/bootstrap-material-datetimepicker",
+    "require": {
+        "moment/moment": "^2.10",
+        "twbs/bootstrap": "^3.3",
+        "components/jquery": "^2.1",
+        "timhovius/bootstrap-material-design": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Johan Nordström",
+            "email": "johan@digitalvillage.se"
+        }
+    ]
+}
