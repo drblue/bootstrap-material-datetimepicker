@@ -1,6 +1,7 @@
 {
     "name": "drblue/bootstrap-material-datetimepicker",
     "description": "Fork of T00rk/bootstrap-material-datetimepicker",
+    "license": "MIT",
     "type": "library",
     "require": {
         "moment/moment": "^2.10",
