@@ -1,5 +1,5 @@
 {
-    "name": "dr_blue/bootstrap-material-datetimepicker",
+    "name": "drblue/bootstrap-material-datetimepicker",
     "require": {
         "moment/moment": "^2.10",
         "twbs/bootstrap": "^3.3",
