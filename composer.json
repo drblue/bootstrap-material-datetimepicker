@@ -1,5 +1,7 @@
 {
     "name": "drblue/bootstrap-material-datetimepicker",
+    "description": "Fork of T00rk/bootstrap-material-datetimepicker",
+    "type": "library",
     "require": {
         "moment/moment": "^2.10",
         "twbs/bootstrap": "^3.3",
